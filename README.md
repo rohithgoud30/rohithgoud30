@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohithgoud30
-- 👀 I’m interested in Web Development And Data Science 
-- 🌱 I’m currently learning Java And Machine Learning 
+- 👀 I’m interested in Norhing 
+- 🌱 I’m currently learning Nothing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Contact Me from here https://rohithgoud30.github.io/cv/
 
