@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohithgoud30
-- 👀 I’m interested in Nothing 
-- 🌱 I’m currently learning Nothing 
+- 👀 I’m interested in </> 
+- 🌱 I’m currently learning </> 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Contact Me from here https://rohithgoud30.github.io/cv/
 
