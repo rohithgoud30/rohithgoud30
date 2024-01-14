@@ -2,7 +2,7 @@
 - 👀 I’m interested in </> 
 - 🌱 I’m currently learning </> 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Contact Me from here https://rohithgoud30.github.io/cv/
+- 📫 How to reach me Contact Me rohith.pgrg@gmail.com
 
 <!---
 rohithgoud30/rohithgoud30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
