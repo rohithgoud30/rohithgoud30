@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohithgoud30
 - 👀 Interested in Web Development, AI, and Cloud Computing  
-- 🌱 Learning Advanced Java, Angular, and AWS  
+- 🌱 Learning Java, Angular, and AWS  
 - 💞️ Open to collaborate on AI and Web Projects  
 - 📫 [rohithgoud30@proton.me](mailto:rohithgoud30@proton.me)
   
